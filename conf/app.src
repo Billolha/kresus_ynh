@@ -1,6 +1,4 @@
 SOURCE_URL=https://framagit.org/kresusapp/kresus/-/archive/0.16.0/kresus-0.16.0.tar.bz2
-SOURCE_SUM=
-SOURCE_SUM_PRG=
 SOURCE_FORMAT=tar.bz2
 SOURCE_IN_SUBDIR=true
 SOURCE_FILENAME=
