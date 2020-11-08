@@ -1,5 +1,5 @@
 {
-    "name": "Kresus",
+    "name": "Kresus MASTER",
     "id": "kresus",
     "packaging_format": 1,
     "description": {
@@ -21,7 +21,7 @@
     "requirements": {
         "yunohost": ">= 3.6.0"
     },
-    "version": "0.16.0~ynh4",
+    "version": "master",
     "multi_instance": true,
     "services": [
         "nginx"
@@ -44,8 +44,8 @@
                     "en": "Choose a path for Kresus",
                     "fr": "Choisissez un chemin pour Kresus"
                 },
-                "example": "/kresus",
-                "default": "/kresus"
+                "example": "/kresusmaster",
+                "default": "/kresusmaster"
             }
         ]
     }
